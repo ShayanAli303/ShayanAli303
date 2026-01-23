@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayan Ali</h1>
-<h3 align="center">Software Engineering Student | Web & App Developer in Progress | Passionate about Creating and Innovating 💡</h3>
+<h3 align="center">Software Engineering student | Aspiring Python Full Stack Developer | Building real projects 💡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shayanali303&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
