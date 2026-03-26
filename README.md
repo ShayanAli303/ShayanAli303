@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently focusing on **React.js**, **Frontend Development**, and **Mobile App Development** (React Native)  
+- 🌱 Currently focusing on **Django**, **FastApi**, and **Python Automation** 
 - 💬 Ask me about **Python, Java, OOP, HTML, CSS, JavaScript**  
 - 📫 Reach me at **alishayan111sa@gmail.com**  
 
